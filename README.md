@@ -140,9 +140,8 @@ Este laboratório prático com Azure Speech Studio e Language Studio foi uma exp
 
 ## ✍️ Autor
 
-* **[Seu Nome Completo]**
-* [Link para seu LinkedIn] (Ex: `https://www.linkedin.com/in/seu-perfil/`)
-* [Link para seu Perfil na DIO] (Opcional)
+* **[Jonata Mendes]**
+* [Link para seu Perfil na DIO] https://www.dio.me/users/cybermagog
 
 ---
 
